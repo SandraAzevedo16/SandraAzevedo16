@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**SandraAzevedo16/SandraAzevedo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👩‍💻 Sobre Mim
+ 
+Olá! Sou **Sandra Azevedo**, editora contábil de formação, com uma mente analítica, curiosa e apaixonada por aprender. Ao longo da minha trajetória profissional, desenvolvi uma forte afinidade com **dados** e com a forma como eles podem contar histórias e apoiar decisões estratégicas.
+ 
+## 🚀 Transição para Análise de Dados
+ 
+Minha experiência com números e relatórios contábeis despertou em mim o interesse em compreender os dados de forma mais profunda. Foi então que descobri o universo da **Análise de Dados**, onde encontrei no **Power BI** uma ferramenta poderosa para transformar informações brutas em painéis visuais, interativos e cheios de significado.
+ 
+Hoje, aplico meus conhecimentos para:
+ 
+- Construir **dashboards interativos** com foco em insights de negócio
+- Realizar **modelagem de dados** eficiente
+- Utilizar **DAX** para criar métricas e indicadores personalizados
+- Interpretar e traduzir **dados financeiros e operacionais** em visualizações estratégicas
+ 
+## 💡 Meu Estilo
+ 
+Sou uma profissional **dinâmica, autodidata e entusiasta da tecnologia**. Acredito que dados bem apresentados podem mudar a forma como as organizações tomam decisões – e é isso que me motiva todos os dias.
+ 
+---
+ 
+📊 *Sigo em constante evolução, estudando, praticando e compartilhando conhecimento no mundo da Análise de Dados. Se quiser trocar ideias ou acompanhar meus projetos, seja muito bem-vindo(a) por aqui!*
+ 
