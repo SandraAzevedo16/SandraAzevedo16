@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/c583e0e4-3515-44cb-a2f9-040a013c9b3c)
+
+
 # 👩‍💻 Sobre Mim
  
 Olá! Sou **Sandra Azevedo**, editora contábil de formação, com uma mente analítica, curiosa e apaixonada por aprender. Ao longo da minha trajetória profissional, desenvolvi uma forte afinidade com **dados** e com a forma como eles podem contar histórias e apoiar decisões estratégicas.
