@@ -19,7 +19,9 @@ Hoje, aplico meus conhecimentos para:
 ## 💡 Meu Estilo
  
 Sou uma profissional **dinâmica, autodidata e entusiasta da tecnologia**. Acredito que dados bem apresentados podem mudar a forma como as organizações tomam decisões – e é isso que me motiva todos os dias.
- 
+
+
+ ## 📊 Projetos em Destaque
 ---
  
 
