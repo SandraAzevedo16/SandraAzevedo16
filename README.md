@@ -36,6 +36,6 @@ Sou uma profissional **dinâmica, autodidata e entusiasta da tecnologia**. Acred
 
 
  ## 📊 Projetos em Destaque
-[Projeto 1: Oliste](https://github.com/SandraAzevedo16/Olist)
+[Projeto 1: E-Commerce Brasileiro da Olist](https://github.com/SandraAzevedo16/Olist)
 O projeto teve como objetivo transformar dados brutos do e-commerce brasileiro Olist em insights estratégicos, por meio da modelagem de dados, construção de um dashboard analítico e interpretação dos principais indicadores de desempenho.
 
