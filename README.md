@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c583e0e4-3515-44cb-a2f9-040a013c9b3c)
+https://frmidia.com.br/como-a-educacao-e-o-progresso-cientifico-e-tecnologico-podem-ajudar-a-reduzir-as-desigualdades/ 
 
 
 # 👩‍💻 Sobre Mim
@@ -22,5 +22,4 @@ Sou uma profissional **dinâmica, autodidata e entusiasta da tecnologia**. Acred
  
 ---
  
-📊 *Sigo em constante evolução, estudando, praticando e compartilhando conhecimento no mundo da Análise de Dados. Se quiser trocar ideias ou acompanhar meus projetos, seja muito bem-vindo(a) por aqui!*
- 
+
