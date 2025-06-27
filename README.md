@@ -19,11 +19,12 @@ Hoje, aplico meus conhecimentos para:
 ## 🔹Formação em Business Intelligence IEFP:
 Durante a formação de 300 horas em Business Intelligence do IEFP, desenvolvi competências essenciais para transformar dados em informação estratégica voltada à tomada de decisão. Essa formação teve como objetivo capacitar profissionais e organizações no uso de ferramentas tecnológicas para recolha, armazenamento, transformação e análise de dados, com foco na criação de dashboards interativos, dinâmicos e colaborativos. Ao longo da formação, trabalhei temas fundamentais como:
 
+
 • Aplicação de ferramentas para suporte à decisão;
 • Planeamento de soluções de armazenamento de dados;
 • Integração e transformação de dados de múltiplas origens;
 • Construção de modelos dimensionais;
-• Criação de relatórios e dashboards eficazes;
+• Criação de relatórios e dashboards eficazes; 
 • Storytelling com dados e visualização estratégica de informação;
 • Execução de análises avançadas orientadas ao negócio.
 
