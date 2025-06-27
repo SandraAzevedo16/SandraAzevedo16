@@ -15,6 +15,13 @@ Hoje, aplico meus conhecimentos para:
 - Realizar **modelagem de dados** eficiente
 - Utilizar **DAX** para criar métricas e indicadores personalizados
 - Interpretar e traduzir **dados financeiros e operacionais** em visualizações estratégicas
+
+## 🔹Formação em Business Intelligence IEFP:
+Durante a formação de 300 horas em Business Intelligence do IEFP, desenvolvi competências essenciais para transformar dados em informação estratégica voltada à tomada de decisão. Essa formação teve como objetivo capacitar profissionais e organizações no uso de ferramentas tecnológicas para recolha, armazenamento, transformação e análise de dados, com foco na criação de dashboards interativos, dinâmicos e colaborativos. Ao longo da formação, trabalhei temas fundamentais como:
+
+• Aplicação de ferramentas para suporte à decisão; • Planeamento de soluções de armazenamento de dados; • Integração e transformação de dados de múltiplas origens; • Construção de modelos dimensionais; • Criação de relatórios e dashboards eficazes; • Storytelling com dados e visualização estratégica de informação; • Execução de análises avançadas orientadas ao negócio.
+
+Como culminar desse processo, desenvolvi vários projetos prático baseado em coinjunto de dados diversos permitindo aplicar todo o ciclo de desenvolvimento de uma analise de Business Intelligence, desde a modelação até à entrega de insights visuais.
  
 ## 💡 Meu Estilo
  
@@ -22,6 +29,6 @@ Sou uma profissional **dinâmica, autodidata e entusiasta da tecnologia**. Acred
 
 
  ## 📊 Projetos em Destaque
----
- 
+
+O projeto teve como objetivo transformar dados brutos do e-commerce brasileiro Olist em insights estratégicos, por meio da modelagem de dados, construção de um dashboard analítico e interpretação dos principais indicadores de desempenho.
 
