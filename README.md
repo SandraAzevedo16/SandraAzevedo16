@@ -1,5 +1,4 @@
-https://frmidia.com.br/como-a-educacao-e-o-progresso-cientifico-e-tecnologico-podem-ajudar-a-reduzir-as-desigualdades/ 
-
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Ffrmidia.com.br%2Fcomo-a-educacao-e-o-progresso-cientifico-e-tecnologico-podem-ajudar-a-reduzir-as-desigualdades%2F&psig=AOvVaw1SvPAdUpXVHtdNO2EO216A&ust=1751100782581000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiD2f2ckY4DFQAAAAAdAAAAABAc) 
 
 # 👩‍💻 Sobre Mim
  
